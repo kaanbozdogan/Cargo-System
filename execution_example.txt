@@ -1,0 +1,504 @@
+Welcome to the Cargo System
+
+Determine the password for the Admin: 
+adm
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+1
+password: 
+jhghdfhjagf
+Wrong password!
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+1
+password: 
+adm
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+1
+Enter the branch ID: asd
+Id must be an integer
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+1
+Enter the branch ID: 1
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+1
+Enter the branch ID: 1
+ID already exists
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+3
+Enter the Employee ID: 2
+Enter the branch ID: 1
+Enter the Password: bremp
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+3
+Enter the Employee ID: 2
+Enter the branch ID: 1
+Employee ID already exists
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+3
+Enter the Employee ID: 3
+Enter the branch ID: 3
+Branch ID does not exist
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+5
+Enter the Transportation Employee ID: asd
+Id must be an integer
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+5
+Enter the Transportation Employee ID: 3
+Enter the Password: tremp
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+5
+Enter the Transportation Employee ID: 3
+Enter the Password: tremp
+ID already exists
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+2
+User ID: 
+2
+password: 
+sadfsjhdfa
+Wrong password!
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+2
+User ID: 
+2
+password: 
+bremp
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+3
+Enter the Customer ID who ordered the cargo: 10
+Customer not found.
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+1
+Enter the Customer ID: 10
+Done!
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+3
+Enter the Customer ID who ordered the cargo: 10
+Enter the Cargo ID: 11
+Done!
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+4
+
+Customer Selections:
+1- See cargo Status
+0- Exit
+1
+Enter the Cargo ID: 16513
+Cargo does not exist
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+4
+
+Customer Selections:
+1- See cargo Status
+0- Exit
+1
+Enter the Cargo ID: 11
+At the Branch
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+3
+User ID: 
+3
+password: 
+tremp
+
+Transportation Employee Selections:
+1- Take Cargo
+2- Deliver Cargo
+0- Exit
+1
+Enter the Cargo ID: 11
+Done!
+
+Transportation Employee Selections:
+1- Take Cargo
+2- Deliver Cargo
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+4
+
+Customer Selections:
+1- See cargo Status
+0- Exit
+1
+Enter the Cargo ID: 11
+shipping to the customer
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+3
+User ID: 
+3
+password: 
+tremp
+
+Transportation Employee Selections:
+1- Take Cargo
+2- Deliver Cargo
+0- Exit
+2
+Done!
+
+Transportation Employee Selections:
+1- Take Cargo
+2- Deliver Cargo
+0- Exit
+2
+Employee does not have any cargo
+
+Transportation Employee Selections:
+1- Take Cargo
+2- Deliver Cargo
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+4
+
+Customer Selections:
+1- See cargo Status
+0- Exit
+1
+Enter the Cargo ID: 11
+delivered
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+2
+User ID: 
+2
+password: 
+bremp
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+4
+Enter the Cargo ID: 11
+Cargo does not exist in the same Branch with Employee
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+3
+Enter the Customer ID who ordered the cargo: 10
+Enter the Cargo ID: 12
+Done!
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+4
+Enter the Cargo ID: 12
+Done!
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+2
+Enter the Customer ID: 1123123
+ID does not exist
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+2
+Enter the Customer ID: 10
+Done!
+
+Branch Employee Selections:
+1- Add Customer
+2- Remove Customer
+3- Add Cargo
+4- Remove Cargo
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+1
+password: 
+adm
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+6
+Enter the Transportation Employee ID: 132131
+ID does not exist
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+6
+Enter the Transportation Employee ID: 3
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+4
+Enter the Employee ID: 231321
+Employee ID does not exists
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+4
+Enter the Employee ID: 2
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+2
+Enter the branch ID: 1242123
+ID does not exist
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+2
+Enter the branch ID: 1
+Done!
+
+Admin Selections:
+1- Add Branch
+2- Remove Branch
+3- Add Branch Employee
+4- Remove Branch Employee
+5- Add Transportation Employee
+6- Remove Transportation Employee
+0- Exit
+0
+
+Login Selections:
+1- Administrator
+2- Branch Employee
+3- Transportation Employee
+4- Customer
+0- Exit
+0
+
+Thank you for using our Cargo System. Come again.
